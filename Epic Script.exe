@@ -129,7 +129,7 @@ RebirthsSection:NewToggle("50000000", "Rebirth 100", function(state)
 while wait() do
     if getgenv().Rebirther == true then
 local args = {
-    [1] = "50",
+    [1] = "55",
     [2] = "a"
 }
     
